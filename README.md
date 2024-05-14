@@ -33,17 +33,29 @@ CREATE TABLE product (
 ### 接口测试
 使用jmeter
 - 注册
-  
+  ![注册](./jmeter/signup.png)
+  ![注册](./jmeter/signup2.png)
+
 - 登录
+  ![登录](./jmeter/login.png)
+  ![登录](./jmeter/login2.png)
   
 - 查询所有产品
+  ![查询](./jmeter/readAll.png)
   
 - 按照id查找产品
+  ![查询](./jmeter/readById.png)
+  ![查询](./jmeter/readById2.png)
   
 - 按照name查找产品
+  ![查询](./jmeter/readByName.png)
+  ![查询](./jmeter/readByName2.png)
   
 - 按照id删除产品
+  ![删除](./jmeter/delete.png)
+  ![删除](./jmeter/delete2.png)
   
 - 按照id修改产品
-  
+  ![更新](./jmeter/update.png)
+  ![更新](./jmeter/update2.png)
     
