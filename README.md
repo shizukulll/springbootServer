@@ -56,6 +56,6 @@ CREATE TABLE product (
   ![删除](./jmeter/delete2.png)
   
 - 按照id修改产品
+  ![更新](./jmeter/uppdate.png)
   ![更新](./jmeter/update.png)
-  ![更新](./jmeter/update2.png)
     
