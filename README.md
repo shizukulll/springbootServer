@@ -41,7 +41,7 @@ CREATE TABLE product (
   ![登录](./jmeter/login2.png)
   
 - 查询所有产品
-  ![查询](./jmeter/readAll.png)
+  ![查询](./jmeter/readall.png)
   
 - 按照id查找产品
   ![查询](./jmeter/readById.png)
